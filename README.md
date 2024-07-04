@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi,I'm Nazar!</h1>
-<h3 align="center">I'm a Python Developer from Ukraine. I'm highly motivated in learning programming especially ML and AI.</h3>
+<h3 align="center">I'm a Python Developer from Ukraine. I'm highly motivated in learning programming especially in fields like ML and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z1ppyyy&label=Profile%20views&color=0e75b6&style=flat" alt="z1ppyyy" /> </p>
 
